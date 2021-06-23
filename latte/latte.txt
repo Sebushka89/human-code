@@ -1,0 +1,23 @@
+//traccia 1 Ti sei appena svegliato, è il momento di bere un bel bicchiere di latte caldo.
+
+nel momento in cui realizzo di essermi
+alzato apri gli occhi,
+se ho sentito il cellulare suonare durante la notte  lo controllo,
+altrimenti lo faccio lo stesso,
+e se ho lasciasto le ciabatte il giorno prima vicino al letto  le indosso
+altrimenti vado scalzo.
+decido di fare colazione con il latte caldo percio mi dirigo in cucina.
+apro il frigo e prendo il latte
+mentre prendo il pentolino per scaldare il latte mi ricordo di non avevr pagato la bolletta del gas,
+percio tento di usare il microonde.
+il latte è troppo caldo allora lo lascio raffreddare per X tempo.
+Apro la mensola per cercare un bicchiere
+se lo trovo lo verso,
+altrimenti lo verso in una ciotola.
+se Realizzo che il latte che ho versato è scaduto
+lo butto,
+e se è scaduto vado dalla vicina per chiederle se ne ha del latte extra,
+altrimenti, se è buono, lo bevo
+ 
+
+
